@@ -3,8 +3,8 @@
 ### Top language 💯 
 
 </br>
+    Addict to the Javascript ecosystem, I mainly develop web applications react.js / vue.js and node.js.
     <p align="center">
-        Addict to the **Javascript** ecosystem, I mainly develop web applications **react** / **vuejs** and **node**.
         <a href="https://github.com/theogu">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1" height="300px" />
         </a>
