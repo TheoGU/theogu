@@ -1,8 +1,8 @@
 ### Hi there, I'm [Theo!](https://github.com/Theogu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div style="text-align:center;">
+<p style="text-align:center;">
 ### Top language 💯 
-</div>
+</p>
 </br>
     <p align="center">
         <a href="https://github.com/theogu">
