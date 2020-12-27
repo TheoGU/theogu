@@ -4,10 +4,7 @@
 
 </br>
     <p align="center">
-    <ul>
-        <li>ok</li>
-        </ul>
-
+        Addict to the **Javascript** ecosystem, I mainly develop web applications **react** / **vuejs** and **node**.
         <a href="https://github.com/theogu">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1" height="300px" />
         </a>
