@@ -2,12 +2,16 @@
 
 <br />
 
-<a href="https://github.com/theogu" align="center">
+<p align="center">
+<a href="https://github.com/theogu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1" />
 </a>
-<a href="https://github.com/theogu"  align="center">
+    </p>
+    <p align="center">
+
+<a href="https://github.com/theogu" >
 <img src="https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20"/>
 </a>
-
+</p>
 
 
