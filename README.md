@@ -3,7 +3,7 @@
 <br />
 
 I'm a passionate Full Stack Web && mobile developer.
- <div style="width:500px;"> 
+ <div style="width:500px; display: flex; justify-content:center;"> 
 <a href="https://github.com/theogu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1" />
 </a>
