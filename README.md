@@ -4,6 +4,7 @@
 
 </br>
     <p align="center">
+    <img src="https://avatars1.githubusercontent.com/u/31790786?s=400&u=a6187b84f87f6d0d1cdd2d008fe8c2f4f66fe14f&v=4" />
         <a href="https://github.com/theogu">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1" />
         </a>
