@@ -13,11 +13,10 @@
 <h2>My Stats 📈 </h2>
 </br>
 <span align="left">
-
-![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20)
+![Theogu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20)
 </span>
 <span align="right">
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&hide_border=true&theme=tokyonight&stroke=00E6F&line_height=20)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&theme=tokyonight&line_height=20)
 </span>
     </br>
     <h2>Where to find me 🌎 </h2>
