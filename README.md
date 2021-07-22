@@ -23,13 +23,7 @@ and <a style="color:#764ABC" href="https://nodejs.org/en/" target="_blank"><u>No
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&theme=tokyonight)
 </span>
 
-<h2>Top Languages 🍿 </h2>
-
-<span align="right">
-![My GitHub lang](https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1)
-</span>
-
-<h2>Where to find me 🌎 </h2>
+<h2>Find Me 🎯 </h2>
 <p>
   <a href="https://www.linkedin.com/in/theo-guinebertier-b53504140/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://twitter.com/theoGNBT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
