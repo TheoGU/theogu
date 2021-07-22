@@ -13,10 +13,9 @@
 <h2>My Stats 📈 </h2>
 </br>
     <p align="center">
-        <img src="https://avatars1.githubusercontent.com/u/31790786?s=400&u=a6187b84f87f6d0d1cdd2d008fe8c2f4f66fe14f&v=4" width="175px" />
         <a href="https://github.com/theogu" >
             <img src="https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEOGU&hide_border=true&theme=tokyonight&background=000000&stroke=00E6F"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogu&hide_border=true&theme=tokyonight&stroke=00E6F&line_height=20"/>
         </a>
     </p>
     </br>
