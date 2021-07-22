@@ -1,8 +1,8 @@
-### Hi there, I'm [Theo!](https://github.com/Theogu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> Hi there, I'm [Theo!](https://github.com/Theogu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>About me 👨🏽‍💻</h2>
 <img align="right" src="" width="200"/>
 <p aligh="left">
-  <p>Hello there, welcome!</br>
+  <p>Welcome!</br>
   I'm Théo, web and mobile developer from 🇫🇷.</p>
   	
 🏰  Co-founder of Wyloo, a cluster of young, passionate self-entrepreneurs who have been
