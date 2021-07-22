@@ -10,6 +10,8 @@ working together for several years now.
 
 🚀  Addict to the Javascript ecosystem, I mainly develop web applications <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>
 and <a style="color:#764ABC" href="https://nodejs.org/en/" target="_blank"><u>Node</u></a>.
+
+💻  Start your project with me on <a style="color:#ff7979" href="https://www.malt.fr/profile/theoguinebertier" target="_blank"><u>Hire Me !</u></a> 
 </p>
 <br>
 
