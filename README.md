@@ -1,15 +1,5 @@
 ### Hi there, I'm [Theo!](https://github.com/Theogu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h2>Top language 💯 </h2>
-
-</br>
-    <p align="center">
-        <a href="https://github.com/theogu">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1" height="300px" />
-        </a>
-    </p>
-</br>
-
 <h2>My Stats 📈 </h2>
 
 <span align="left">
@@ -18,6 +8,9 @@
 </span>
 <span align="right">
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&theme=tokyonight)
+</span>
+<span align="right">
+![My GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1)
 </span>
 
 <h2>Where to find me 🌎 </h2>
