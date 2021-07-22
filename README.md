@@ -11,15 +11,14 @@
 </br>
 
 <h2>My Stats 📈 </h2>
-</br>
+
 <span align="left">
 ![Theogu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20)
 </span>
 <span align="right">
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&theme=tokyonight&line_height=20)
 </span>
-    </br>
-    <h2>Where to find me 🌎 </h2>
+<h2>Where to find me 🌎 </h2>
 <p>
   <a href="https://www.linkedin.com/in/theo-guinebertier-b53504140/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://twitter.com/theoGNBT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
