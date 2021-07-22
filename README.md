@@ -8,9 +8,10 @@
 </span>
 <span align="right">
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&theme=tokyonight)
+![My GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1)
+
 </span>
 <span align="right">
-![My GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theogu&theme=tokyonight&hide_langs_below=1)
 </span>
 
 <h2>Where to find me 🌎 </h2>
