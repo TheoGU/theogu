@@ -13,7 +13,7 @@
 <h2>My Stats 📈 </h2>
 
 <span align="left">
-![Theogu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20)
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20)
 </span>
 <span align="right">
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&theme=tokyonight&line_height=20)
