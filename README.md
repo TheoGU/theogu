@@ -12,12 +12,13 @@
 
 <h2>My Stats 📈 </h2>
 </br>
-    <p align="center">
-        <a href="https://github.com/theogu" >
-            <img src="https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogu&hide_border=true&theme=tokyonight&stroke=00E6F&line_height=20"/>
-        </a>
-    </p>
+<span align="left">
+
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theogu&show_icons=true&theme=tokyonight&line_height=20)
+</span>
+<span align="right">
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theogu&hide_border=true&theme=tokyonight&stroke=00E6F&line_height=20)
+</span>
     </br>
     <h2>Where to find me 🌎 </h2>
 <p>
