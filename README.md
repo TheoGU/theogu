@@ -13,7 +13,7 @@ and <a style="color:#764ABC" href="https://nodejs.org/en/" target="_blank"><u>No
 
 💻  Start your project with me on <a style="color:#000000" href="https://www.malt.fr/profile/theoguinebertier" target="_blank"><u>Hire Me !</u></a> 
 
-🔗  Check my <a style="color:#000000" href="https://theo.guinebertier.com/" target="_blank"><u> website </u></a> 
+🔗  Check my <a style="color:#000000" href="https://theo.guinebertier.com/" target="_blank"><u> website (new version coming soon 🚀)</u></a> 
 
 </p>
 <br>
