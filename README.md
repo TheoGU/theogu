@@ -2,7 +2,7 @@
 <h2>About me 👨🏽‍💻</h2>
 <img align="right" src="https://cdn.jsdelivr.net/gh/theogu/repoforreadme/memoji.png" width="150"/>
 <p aligh="left">
-  <p>Welcome!</br>
+  <p>Welcome !</br>
   I'm Théo, web and mobile developer from 🇫🇷.</p>
   	
 🏰  Co-founder of Wyloo, a cluster of young, passionate self-entrepreneurs who have been
