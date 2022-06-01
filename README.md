@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Théo <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /></h1>
+<h1> Hi there, I'm Théo <img height="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /></h1>
 <h2>About me 👨🏽‍💻</h2>
 <img align="right" src="https://cdn.jsdelivr.net/gh/theogu/repoforreadme/memoji.png" width="150"/>
 <p aligh="left">
