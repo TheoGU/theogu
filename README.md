@@ -5,7 +5,7 @@
   <p>Welcome !</br>
   I'm Théo, web and mobile developer from 🇫🇷.</p>
   	
-🏰  Co-founder of Wyloo, a cluster of young, passionate self-entrepreneurs who have been
+🏰  CTO of Eguth and co-founder of Wyloo, a cluster of young, passionate self-entrepreneurs who have been
 working together for several years now.
 
 🚀  Addict to the Javascript ecosystem, I mainly develop web applications <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>
